@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bolder; color: #059d06">Simple Flow</h1>
 
 <p align="center">
-  <a href="https://chatbot-flow-builder-guru-bandikes-projects.vercel.app/" target="_blank">View Live App</a>
+  <a href="https://simple-flow-ten.vercel.app/" target="_blank">View Live App</a>
 </p>
 
 ## Project Description
